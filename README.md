@@ -1,6 +1,6 @@
 # ConvLSTM-AE_VAD_ICME2017
-This repo is the reimplementation code of Remembering history with convolutional LSTM for anomaly detection
-, ICME 2017 by Weixin Luo, Wen Liu and Shenghua Gao. The official implementation is in xxx.
+This repo is the reimplementation code of ![Remembering history with convolutional LSTM for anomaly detection
+, ICME 2017 by Weixin Luo, Wen Liu and Shenghua Gao](https://ieeexplore.ieee.org/document/8019325). The official implementation is in https://github.com/zachluo/convlstm_anomaly_detection.
 
 It is implemented in Pytorch. Please follow the instructions to run the code.
 ### 1. Installation (Anaconda with python3.6 installation is recommended)
